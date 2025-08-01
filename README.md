@@ -33,7 +33,7 @@ My goal is to build simple but impactful tech solutions, and to empower *young g
  Technologies Used
 
 HTML5 – for the structure and layout  
-CSS3 – for styling and design  
+CSS – for styling and design  
 This portfolio i have only used html5 and css.
 
 My folder structure

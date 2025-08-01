@@ -17,7 +17,7 @@ My goal is to build simple but impactful tech solutions, and to empower *young g
  Live Demo
 
  Check out the live version of my portfolio here:  
- [https://your-site-name.netlify.app](https://your-site-name.netlify.app)  
+ [https://noela.netlify.app/)  
 
 
 
@@ -60,7 +60,7 @@ No installations, no setup — just open and explore!
 If you’d like to connect, collaborate, or just say hi — here’s how to reach me:
 
 Email: noelakipchumba2020@gmail.com  
-   GitHub: [Your GitHub link here]  
+   GitHub: [https://github.com/Noela6344/My-portfolio]  
 
 
  Final Note

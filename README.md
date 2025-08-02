@@ -17,7 +17,7 @@ My goal is to build simple but impactful tech solutions, and to empower *young g
  Live Demo
 
  Check out the live version of my portfolio here:  
- [https://noela.netlify.app/)  
+ [https://noelasian.netlify.app/)  
 
 
 
